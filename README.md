@@ -1,4 +1,4 @@
-# Java Project: Nokia Movie Task
+# Java Project: Movie Task
 
 A simple Java-based application for managing a movie database. It allows adding, deleting, and filtering movies, directors, and actors via a command-line interface (CLI).
 
